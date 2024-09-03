@@ -1,0 +1,16 @@
+* {
+    background-color: #ffe1a8;    
+}
+
+h1,
+h2 {
+    color: #613dc1;
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    border-radius: 5%;
+}
